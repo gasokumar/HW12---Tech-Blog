@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gasokumar/HW12---Tech-Blog/issues"
   },
-  "homepage": "https://github.com/gasokumar/HW12---Tech-Blog#readme"
+  "homepage": "https://github.com/gasokumar/HW12---Tech-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
